@@ -2,13 +2,23 @@
 templateKey: rules-page
 title: Promotion Rules
 ---
-| Tables   | Are           | Cool  |
-| -------- | ------------- | ----- |
-| col 1 is | left-aligned  | $1600 |
-| col 2 is | left-aligned  | $12   |
-| col 3 is | left-aligned  | $1    |
+## A Sample Table
+
+| Tables   | Are          | Cool  |
+| -------- | ------------ | ----- |
+| col 1 is | left-aligned | $1600 |
+| col 2 is | left-aligned | $12   |
+| col 3 is | left-aligned | $1    |
 
 try-hard iPhone keytar Pinterest actually semiotics Godard fingerstache shabby chic Cosby sweater flannel cred plaid single-origin coffee cray keffiyeh Williamsburg Brooklyn gastropub letterpress tote bag wolf Shoreditch McSweeney's Blue Bottle dreamcatcher distillery organic tofu Intelligentsia fixie viral post-ironic Echo Park slow-carb lomo umami vinyl Kickstarter normcore narwhal wayfarers Truffaut kale chips roof party Portland 3 wolf moon ugh gluten-free art party whatever selfies bicycle rights cliche sustainable forage kitsch lo-fi XOXO sriracha salvia master cleanse VHS ethical irony Pitchfork Thundercats hella occupy fanny pack aesthetic Vice jean shorts Neutra food truck bespoke Marfa sartorial American Apparel Banksy gentrify seitan pour-over you probably haven't heard of them chia butcher mixtape skateboard leggings pork belly flexitarian banh mi freegan Carles church-key ennui pickled photo booth hashtag farm-to-table before they sold out locavore raw denim selvage Helvetica pug beard crucifix artisan vegan meh drinking vinegar polaroid 90's messenger bag four loko readymade small batch tousled mlkshk quinoa YOLO stumptown bitters disrupt synth Odd Future fashion axe heirloom PBR trust fund paleo Bushwick craft beer cardigan deep v squid cornhole hoodie meggings asymmetrical typewriter literally DIY Tonx PBR&B Etsy kogi direct trade  retro 8-bit mumblecore Tumblr blog fap street art yr +1 banjo pop-up next level Austin mustache swag High Life twee scenester chambray chillwave put a bird on it authentic Schlitz brunch tattooed Wes Anderson biodiesel
+
+`this is code`
+
+```
+this is a code block
+```
+
+![](/img/5xchampions.jpg)
 
 ## Copyright
 
