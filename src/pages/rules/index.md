@@ -1,6 +1,6 @@
 ---
 templateKey: rules-page
-title: Promotion Rules
+title: Example Promotion Rules
 ---
 ## A Sample Table
 
@@ -18,7 +18,7 @@ try-hard iPhone keytar Pinterest actually semiotics Godard fingerstache shabby c
 this is a code block
 ```
 
-![](/img/5xchampions.jpg)
+![Image of a ticket](/img/5xchampions.jpg)
 
 ## Copyright
 
