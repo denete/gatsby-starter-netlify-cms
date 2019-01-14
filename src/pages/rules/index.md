@@ -2,6 +2,10 @@
 templateKey: rules-page
 title: Example Promotion Rules
 ---
+**Eligibility:** The Georgia Lottery Corporation’s 25th Anniversary Cash Giveaway™ Promotion (“the Promotion”) is open to each eligible original purchaser at retail of any non-winning scratcher ticket, for a Georgia Lottery active game, as of January 1, 2018 or thereafter. An Entrant must be a legal resident of the United States, who is 18 years of age or older. Employees of the Georgia Lottery Corporation (“GLC” or “Georgia Lottery” or “Sponsor”), IGT Corporation, IGT International, BBDO Atlanta, Scientific Games Inc. (“SGI”), MDI Entertainment, LLC and their respective parent companies, affiliates, subsidiaries, directors, officers, agents, contractors, advertising/promotional agencies, (collectively, “Sponsors”), and immediate family members living in the same household of each are not eligible. Void where prohibited by law.
+
+
+
 ## A Sample Table
 
 | Tables   | Are          | Cool  |
